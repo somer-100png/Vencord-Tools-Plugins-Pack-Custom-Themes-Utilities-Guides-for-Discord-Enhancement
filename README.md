@@ -56,9 +56,6 @@ Focused on **performance, UI customization, plugin development, theme creation, 
 /assets
 /examples
 
-yaml
-Копировать код
-
 ---
 
 ## 📘 Documentation
